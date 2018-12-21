@@ -13,7 +13,5 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<platform>all</platform>
-		<source>https://raw.githubusercontent.com/Funkd/ScopeNox/</source>
-		<website>https://www.github.com/Funkd</website>
 	</extension>
 </addon>
